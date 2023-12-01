@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple/Desktop/IDS-706/Yuwen-IDS706-miniproject12/mlruns/0/f260e81d618847888ccafb1c48073fb2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f260e81d618847888ccafb1c48073fb2
+run_name: flawless-flea-528
+run_uuid: f260e81d618847888ccafb1c48073fb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701461044523
+status: 1
+tags: []
+user_id: rui
