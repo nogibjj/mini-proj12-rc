@@ -1,4 +1,4 @@
-# Week12 mini project - MLflow to manage a simple machine learning project
+# Week12 - MLflow to manage a simple machine learning project
 
 ## Overview
 This project is designed to validate CSV files using a Python script. It checks for common data issues such as carriage returns, unnamed columns, and columns with zero counts. The script is integrated with MLflow for tracking and logging metrics during the validation process.
